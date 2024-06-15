@@ -1,0 +1,96 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage directory used by testing tools
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Parcel-bundler cache
+.cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Vuepress build output
+.vuepress/dist
+
+# Hugo
+public/
+
+# Docusaurus
+build/
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# WebAssembly cache
+*.wasm
+
+# nyc test coverage
+.nyc_output/
+
+# Sapper build / export
+__sapper__/
+
+# Gridsome cache
+.gridsome/
+
+# temporary files created by tests
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Snowpack build directory
+snowpack/
+
+# jetbrains IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# SvelteKit build / export
+.svelte-kit/
